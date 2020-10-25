@@ -82,4 +82,5 @@ It's conformed by six tables and two triggers:
 
 
 - Triggers:
+
   -- count_update and count_delete: Make an insert every time that is inserting or deleting a row in the passenger's table.
