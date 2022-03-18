@@ -30,8 +30,7 @@ This project is a database for a transport system made on PostgreSQL. The data e
    1. name: stores the passenger name, the type of data is character varying.
    1. homeAddress: stores the passenger home address, the type of data is character varying.
    1. birthDate: saves the passenger birth date. The type of data is date.
-
-  <br>
+   <br>
 1. **routes:** saves the information on the train routes, relating the station to the trains with the fields:
 
    1. idRoute: saves the unique id for each route of the system, the type of data is an integer.
@@ -47,7 +46,6 @@ This project is a database for a transport system made on PostgreSQL. The data e
     1. idRoute: saves the id of the route in which the passenger is. The type of data is an integer.
     1. start: stores the start time of travel, the type of data is time without time zone.
     1. end: stores the end time of travel, the type of data is time without time zone. 
-    
     <br>
 1. **count_passengers:** It counts the passenger's amount every time that it's changed at the passenger's table. 
  
