@@ -60,3 +60,7 @@ This project is a database for a transport system made on PostgreSQL. The data e
   * count_update and count_delete: Make an insert every time that is inserting or deleting a row in the passenger's table.
   
  <br>
+
+## Transport System Database ER diagram
+
+![This is a alt text.](https://raw.githubusercontent.com/BarbDMC/transport-system-DB/main/ERD%20transport%20system.png)
